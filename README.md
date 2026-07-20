@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Bilibili Search Purify (B站搜索结果纯净版)
 
 > 拒绝算法绑架，还你一个干净、高效的B站搜索体验！
@@ -32,3 +33,6 @@ const BLACKLIST_WORDS = [
 const BLACKLIST_UP_NAMES = [
     "讨厌的UP主A", "讨厌的UP主B"
 ];
+=======
+# bilibili-search-purify
+>>>>>>> c24a2bf278dcace4ddd44c6f4cf9d0d751989c30
