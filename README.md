@@ -36,6 +36,3 @@ const BLACKLIST_WORDS = [
 const BLACKLIST_UP_NAMES = [
     "讨厌的UP主A", "讨厌的UP主B"
 ];
-=======
-# bilibili-search-purify
->>>>>>> c24a2bf278dcace4ddd44c6f4cf9d0d751989c30
