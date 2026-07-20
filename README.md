@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛡️ Bilibili Search Purify (B站搜索结果纯净版)
 
 > 拒绝算法绑架，还你一个干净、高效的B站搜索体验！
@@ -6,6 +5,10 @@
 当我们满怀期待地在B站搜索诸如“美食教程”、“学习资料”时，搜索结果往往会被算法硬塞入大量**毫不相关**的擦边球、标题党或是营销号的搞笑视频。
 
 本项目旨在通过 Tampermonkey (油猴) 脚本，**动态、无感**地屏蔽所有与搜索词无关的推荐视频，以及那些依靠低俗标题博眼球的垃圾内容。
+
+<img src="https://houlir2.dpdns.org/2026/07/ad1d8f25ccffb77e23041ede0bdcb4b9.png" alt="屏幕截图 2026-07-20 104105" style="zoom: 80%;" />
+
+<img src="https://houlir2.dpdns.org/2026/07/9d12634fa5adfaa65e78c6126b2fae87.png" alt="屏幕截图 2026-07-20 104035" style="zoom:80%;" />
 
 ## ✨ 核心特性
 
@@ -17,7 +20,7 @@
 ## 📦 安装说明
 
 1. 确保你的浏览器已安装 [Tampermonkey](https://www.tampermonkey.net/) 插件。
-2. 点击此处一键安装脚本：**[GreasyFork 安装链接]**(等你发布到GreasyFork后，把链接填在这里)
+2. 点击此处一键安装脚本：**[GreasyFork 安装链接](https://greasyfork.org/zh-CN/scripts/587793-b%E7%AB%99%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C%E7%BA%AF%E5%87%80%E7%89%88-%E5%BC%BA%E7%9B%B8%E5%85%B3-%E5%8E%BB%E6%93%A6%E8%BE%B9)**
 
 ## 🛠️ 自定义配置
 
